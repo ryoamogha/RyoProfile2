@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ryo Profile</string>
+    <string name="name">Satria Amogha Guna</string>
+    <string name="alamat">Ahmad Yani street number 6 RT 3 RW 1 Suwaru Village Pagelaran District Malang Regency</string>
+    <string name="postingan">Posting</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="profil">Profile</string>
+    <string name="biodata">Satria or commonly called Ryo is a student at the Malang Institute of National Technology, class of 2017. Ryo is now in semester 5</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alamat">Dalan Ahmad Yani No 6 RT 3 RW 1 Kec. Pagelaran Kab. Malang</string>
+    <string name="biodata">Satria utawa umume diarani Ryo minangka siswa ing Institut Teknologi Nasional Malang, kelas taun 2017. Ryo saiki wis ana ing semester 5</string>
+    <string name="app_name">Profil\'e Ryo</string>
+    <string name="follower">Melok</string>
+    <string name="following">Melok\'i</string>
+    <string name="name">Satria Amogha Guna</string>
+    <string name="postingan">Kiriman</string>
+    <string name="profil">Profil</string>
+</resources>
