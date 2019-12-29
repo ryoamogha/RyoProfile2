@@ -17,14 +17,7 @@
             android:layout_height="350dp"
             android:background="@drawable/gradientbackground"
             android:orientation="vertical">
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="11dp"
-                android:layout_marginTop="12dp"
-                android:layout_marginRight="15dp"
-                android:src="@drawable/ic_action_name" />
+            
 
             <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/profile_image"
